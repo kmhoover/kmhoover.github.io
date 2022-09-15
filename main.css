@@ -127,6 +127,12 @@ body {
   margin-right: auto;
   width: 80%;
 }
+.centre4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+ }
 .card {
 	background: #222;
 	border: 1px solid #dd2476;
